@@ -1,0 +1,5 @@
+This is help you to craete your own HaarCascade Model to detect your required Objects,.
+i have shared createdata.py for how to create your data your own and objectDetection.py for help your how to run your trained custom model..
+
+link : https://amin-ahmadi.com/cascade-trainer-gui/
+Finally, Attached a link for train your positive and negative images of datas to .xml file..
